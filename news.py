@@ -4,7 +4,7 @@ import datetime
 
 NEWS_API_KEY = "VtVQhAqTe6tqVihjinWz3Qxw7akRE5Wm"
 
-app = pyrogram.Client("mybot", api_id=10816184, api_hash="54fcbe09fa0ea55509bf88bd04a9aff0", bot_token="5528793402:AAEJ0hz_f6rYVUHwZuUCgJGQYCV4MOBQhsw")
+app = pyrogram.Client("mybot", api_id=10816184, api_hash="54fcbe09fa0ea55509bf88bd04a9aff0", bot_token="5568157345:AAHs36IOywVMJ3RB1DOoXHLW3yO5LnOQg9k")
 
 
 # Function to get time and date of Kolkata in 12 hour format
